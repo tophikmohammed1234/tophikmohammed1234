@@ -35,5 +35,5 @@
 
 ## 🔍 Find Me Online
 - **Portfolio:** [tophikmohammed-portfolio](https://tophikmohammed-portfolio.netlify.app/)
-- **LinkedIn:** [tophik-mohammed280468(https://www.linkedin.com/in/tophik-mohammed280468/)
+- **LinkedIn:** [tophik-mohammed280468](https://www.linkedin.com/in/tophik-mohammed280468/)
 - **Email:** tofikmohammed1234@gmail.com
