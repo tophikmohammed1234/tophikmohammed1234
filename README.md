@@ -24,7 +24,7 @@
   - ![English](https://img.shields.io/badge/English-ffdd55?style=flat) English
   - ![Amharic](https://img.shields.io/badge/Amharic-ffdd55?style=flat) Amharic
 
-## Skill
+## 💼 Skill
 - Versatile developer with expertise in both frontend and backend technologies.
 - Skilled in creating and deploying full-stack web applications.
 - Played key roles in leading and contributing to successful web projects, including:
