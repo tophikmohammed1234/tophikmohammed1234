@@ -37,3 +37,5 @@
 - **Portfolio:** [tophikmohammed-portfolio](https://tophikmohammed-portfolio.netlify.app/)
 - **LinkedIn:** [tophik-mohammed280468](https://www.linkedin.com/in/tophik-mohammed280468/)
 - **Email:** tofikmohammed1234@gmail.com
+
+![Tophik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tophikmohammed1234&show_icons=true&theme=radical)
